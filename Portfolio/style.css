@@ -1,0 +1,22 @@
+body{
+
+    background-color: rgb(255, 255, 0);
+}
+
+
+
+h1{
+    color: red;
+}
+h4{
+    color: rgb(14, 220, 117);
+}
+h3{
+    color: rgb(14, 220, 117);
+}
+
+img
+{
+    height: 300px;
+    width: 300px;
+}
